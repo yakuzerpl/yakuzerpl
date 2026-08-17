@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[assets/gloryhammer-auchtertool.gif" alt="Robot Prince of Auchtertool](https://media.tenor.com/1lMtuowMO9QAAAAi/gloryhammer-auchtertool.gif)" width="420">
+  <img src="https://media.tenor.com/1lMtuowMO9QAAAAi/gloryhammer-auchtertool.gif" width="420">
 </p>
 
 <p align="center">
