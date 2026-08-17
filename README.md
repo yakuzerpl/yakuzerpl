@@ -1,17 +1,17 @@
+<p align="center">
+  <img src="[assets/gloryhammer-auchtertool.gif" alt="Robot Prince of Auchtertool](https://media.tenor.com/1lMtuowMO9QAAAAi/gloryhammer-auchtertool.gif)" width="420">
+</p>
 
-# YooHoo!
-
-To jest konto głównie używane pod Sprawy szkolne
-
-![Logo](https://cdn2.steamgriddb.com/logo_thumb/490c466578d8e581e6d28c7161e4acbf.png)
-
-
-## FAQ
-
-#### Pytanie 1: Co?
-
-Jajco
-
-#### Pytanie 2: N?
-
-Nie bo b.
+<p align="center">
+  <em>
+    Robot Prince of Auchtertool<br>
+    Over thy robot kingdom rule<br>
+    Electronic lord of war<br>
+    Destined to reign forevermore<br>
+    <br>
+    Robot Prince of Auchtertool<br>
+    Over thy robot kingdom rule<br>
+    Electronic lord of war<br>
+    Destined to reign forevermore
+  </em>
+</p>
